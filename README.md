@@ -27,3 +27,7 @@
 
 * [Игры](https://github.com/shift-13/games) - определить факторы успешности игры для планирования рекламной компании.
 >  **Методы и библиотеки:** python, pandas, numpy, matplotlib.pyplot, seaborn, scipy, исследовательский анализ, проверка гипотез.
+
+* [Страховая компания](https://github.com/shift-13/insurance) - нужно защитить данные клиентов страховой компании.
+> **Методы и библиотеки:** python, pandas, numpy, matplotlib.pyplot, seaborn, sklearn, LinearRegression.
+
