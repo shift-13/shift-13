@@ -14,7 +14,7 @@
 >**Методы и библиотеки** python, pandas, numpy, sklearn, sicpy, matplotlib.pyplot, seaborn, sweetviz, модели машинного обучения, кросс-валидация, метрика sMAPE, масштабирование данных, корреляция признаков для линейной регрессии.
 
 * [Вакансии](https://github.com/shift-13/vacancy) - анализ рынка труда, требования работодателей, необходимые навыки.
->**Методы и библиотеки** pandas, numpy, json, matplotlib.pyplot, seaborn, scipy, sklearn, разведочный анализ данных, статистический анализ данных, проверка гипотез. [**Дашборд**](https://datalens.yandex.ru/hxfdg66xx2ik8)
+>**Методы и библиотеки** pandas, numpy, json, matplotlib.pyplot, seaborn, scipy, sklearn, разведочный анализ данных, статистический анализ данных, проверка гипотез. [**Дашборд**](https://datalens.yandex/hxfdg66xx2ik8)
 
 * [Отток клиентов](https://github.com/shift-13/loss_of_customers) - анализ данных клиентов банка, построение модели, которая предскажет уйдет или останется клиент. 
 >**Методы, библиотеки:** python, pandas, sklearn, matplotlib.pyplot, seaborn, модели машинного обучения, метрики F1 и ROC-AUC, методы кодирования(One-Hot Encoding, Ordinal Encoding), масштабирование данных, учет дисбаланса классов.  
