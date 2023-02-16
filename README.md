@@ -31,3 +31,8 @@
 * [Страховая компания](https://github.com/shift-13/insurance) - нужно защитить данные клиентов страховой компании.
 > **Методы и библиотеки:** python, pandas, numpy, matplotlib.pyplot, seaborn, sklearn, LinearRegression.
 
+# Сертификаты
+[Диплом ТГУ](https://drive.google.com/file/d/1iITdnadi2wyHt_nnFzVM7nZ18JTVkqfI/view)  
+[Первые программы на языке Python](https://stepik.org/cert/1564507)  
+[Поколение Python: курс для начинающих](https://stepik.org/cert/1593813)  
+[Основы статистики](https://stepik.org/cert/1925491)
