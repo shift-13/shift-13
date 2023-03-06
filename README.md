@@ -9,10 +9,13 @@
 [Профиль](https://stepik.org/users/420353521) на stepik. 
 
 --- 
+## Дашборды  
+* [Дашборд по играм](https://datalens.yandex/26hc4ymmvdocs)
+* [Дашборд по вакансиям](https://datalens.yandex/hxfdg66xx2ik8)
 ## Мои проекты  
 | Название проекта | Описание проекта | Методы и библиотеки
 | :--------------- | :--------------- | :----------
-|[Вакансии](https://github.com/shift-13/vacancy) | анализ рынка труда, требования работодателей, необходимые навыки |pandas, numpy, json, matplotlib.pyplot, seaborn, scipy, sklearn, разведочный анализ данных, статистический анализ данных, проверка гипотез. [**Дашборд**](https://datalens.yandex/hxfdg66xx2ik8)
+|[Вакансии](https://github.com/shift-13/vacancy) | анализ рынка труда, требования работодателей, необходимые навыки |pandas, numpy, json, matplotlib.pyplot, seaborn, scipy, sklearn, разведочный анализ данных, статистический анализ данных, проверка гипотез.
 |[Стоимость автомобиля](https://github.com/shift-13/autos) | анализ критериев, по которым определяется стоимость машины, предсказание ее рыночной стоимости  | python, pandas, numpy, sklearn, sicpy, matplotlib.pyplot, seaborn, sweetviz, модели *машинного обучения*(CatBoost, LightGBMR, линейная регрессия, дерево решений), кросс-валидация, метрика RMSE, масштабирование данных
 |[Количество заказов такси](https://github.com/shift-13/taxi) | количество заказов в течении времени | python, pandas, numpy, sklearn, LightGBMR, линейная регрессия, дерево решений, кросс-валидация, метрика RMSE
 |[Золотодобывающая промышленность](https://github.com/shift-13/gold_mining_industry) |анализ концентрации веществ на разный этапах, построение модели, которая предсказывает эффективность добычи золота |python, pandas, numpy, sklearn, sicpy, matplotlib.pyplot, seaborn, sweetviz, модели машинного обучения, кросс-валидация, метрика sMAPE, масштабирование данных, корреляция признаков для линейной регрессии
