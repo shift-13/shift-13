@@ -17,6 +17,7 @@
 | :--------------- | :--------------- | :----------
 |[Вакансии](https://github.com/shift-13/vacancy) | анализ рынка труда, требования работодателей, необходимые навыки |pandas, numpy, json, matplotlib.pyplot, seaborn, scipy, sklearn, разведочный анализ данных, статистический анализ данных, проверка гипотез.
 |[Проекты от YP](https://github.com/shift-13/yandex_prakticum_projects) |исследовательский анализ данных, обучение с учителем, линейная алгебра, численные методы, временные ряды |`python`, `pandas`, `numpy`, `matplotlib.pyplot`, `seaborn`, `sklearn`, модели машинного обучения, обработка данных, анализ данных
+|[Доход людей](https://github.com/shift-13/people_income) | отчет о доходах людей в 4 городах в зависимости от пола и возраста |`python`, `pandas`, `numpy`, `matplotlib.pyplot`, `seaborn`
 
 
 # Сертификаты
