@@ -26,3 +26,4 @@
 [Первые программы на языке Python](https://stepik.org/cert/1564507)  
 [Поколение Python: курс для начинающих](https://stepik.org/cert/1593813)  
 [Основы статистики](https://stepik.org/cert/1925491)
+[Добрый, добрый Python](https://stepik.org/cert/2050156)
